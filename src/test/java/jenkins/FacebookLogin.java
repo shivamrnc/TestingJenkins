@@ -35,10 +35,10 @@ public class FacebookLogin {
 	}
 	
 	public void teardown() {
-		System.out.println("Inside Login - browser is close");
+		//System.out.println("Inside Login - browser is close");
 
 	
-		driver.close();
+		//driver.close();
 		
 
 	}}
